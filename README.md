@@ -1,2 +1,2 @@
-# Desafio-lua
- Desafio Modulo I
+# Desafios-lua
+ Desafios
